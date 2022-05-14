@@ -1,0 +1,36 @@
+{
+    "venues": [
+        {
+            "description": "Prueba de localización escrita",
+            "name": "Nuñez",
+            "geometry": [
+                17.816794,
+                -91.530863
+            ]
+        },
+        {
+            "description": "Prueba de localización escrita",
+            "name": "Jose",
+            "geometry": [
+                17.810044,
+                -91.539624
+            ]
+        },
+        {
+            "description": "Prueba de localización escrita",
+            "name": "Blanco",
+            "geometry": [
+                17.809730,
+                -91.538558
+            ]
+        },
+        {
+            "description": "Prueba de localización escrita",
+            "name": "Daniela",
+            "geometry": [
+                17.818809,
+                -91.535644
+            ]
+        }
+    ]
+}
